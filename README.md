@@ -10,4 +10,4 @@ The kaggle challenge is linked [here.](https://www.kaggle.com/competitions/nlp-g
 ## Data Prep & Model Selection
 
 ## Future Work
-- Finish readme
+- Transcribe markdown cells, paraphrase into readme
